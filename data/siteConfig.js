@@ -69,7 +69,7 @@ module.exports = {
     {
       company: 'Laney College',
       begin: {
-        month: 'May',
+        month: 'feb',
         year: '2018',
       },
       duration: '2 yr',
