@@ -62,7 +62,7 @@ module.exports = {
         year: '2019',
       },
       duration: '3 mos',
-      occupation: 'Full-Stack Web Development Cirtificate',
+      occupation: 'Full-Stack Web Development',
       description:
         'Learned Web Development with Javascript, JQuery, React, Handlebars, Mongodb, SQL, and Node',
     },
@@ -78,7 +78,7 @@ module.exports = {
         'Studied Object Oriented Programming, Full-Stack Development and Data Structures with C++ and Java',
     },
     {
-      company: 'Good Charlotte',
+      company: `Good Charlotte`,
       begin: {
         month: 'apr',
         year: '1996',
