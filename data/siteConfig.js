@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: "Paul Thomas",
-  siteDescription: `Paul Thomas Portfolio Site`,
+  siteDescription: `Paul Thomas Portfolio Webite`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
   authorName: 'Paul Thomas',
   twitterUsername: 'bigpaulthomas',
