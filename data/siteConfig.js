@@ -86,7 +86,7 @@ module.exports = {
       duration: null,
       occupation: 'Founding Member / Bass Guitarist',
       description:
-        'Founded and contributed to the success of over 11 million albums sold around the world',
+        'Founded the band and contributed to the success of over 11 million albums sold around the world',
     },
   ],
   portifolio: [
