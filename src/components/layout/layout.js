@@ -7,6 +7,8 @@ import Header from '../header'
 import Footer from '../footer'
 import { useDarkMode } from './useDarkMode'
 import { animateOnScroll } from '../../utils/isVisible'
+import favicon from './../../images/favicon.ico'
+import Helmet from 'react-helmet'
 
 const variants = {
   initial: { y: 100, opacity: 0 },
@@ -24,28 +26,33 @@ const Layout = ({ children, location }) => {
     animateOnScroll()
   }, [])
   return (
-  <ThemeProvider theme={themes[theme || 'light']}>
-    <ResetCSS />
-    <GlobalStyle />
-    <StyledContainer>
-      <Header location={location} onChangeTheme={setTheme} theme={theme} />
-      <motion.main
-        key={location}
-        variants={variants}
-        initial="initial"
-        animate="enter"
-      >
-        {children}
-      </motion.main>
-      <Footer />
-    </StyledContainer>
-  </ThemeProvider>
-)}
+    <div>
+      <Helmet>
+        <link rel="icon" href={favicon} />
+      </Helmet>
+      <ThemeProvider theme={themes[theme || 'light']}>
+        <ResetCSS />
+        <GlobalStyle />
+        <StyledContainer>
+          <Header location={location} onChangeTheme={setTheme} theme={theme} />
+          <motion.main
+            key={location}
+            variants={variants}
+            initial="initial"
+            animate="enter"
+          >
+            {children}
+          </motion.main>
+          <Footer />
+        </StyledContainer>
+      </ThemeProvider>
+    </div>
+  )
+}
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,
   location: PropTypes.string.isRequired,
 }
-
 
 export default Layout
