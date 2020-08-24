@@ -14,7 +14,7 @@ module.exports = {
     },
     {
       name: 'CSS',
-      level: 88,
+      level: 95,
     },
     {
       name: 'Javascript',
@@ -26,7 +26,7 @@ module.exports = {
     },
     {
       name: 'React',
-      level: 87,
+      level: 90,
     },
     {
       name: 'Git',
