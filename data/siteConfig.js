@@ -144,7 +144,7 @@ module.exports = {
     twitter: 'https://twitter.com/bigpaulthomas',
     linkedin: 'https://www.linkedin.com/in/paul-thomas-b0409871/',
     github: 'https://github.com/lordpaulthomas',
-    email: 'ptportfoliowebsiteemail@gmail.com',
+    email: 'traitorpt@gmail.com',
   },
   siteUrl: 'http://www.paulthomas.rocks/',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
