@@ -91,6 +91,11 @@ module.exports = {
   ],
   portifolio: [
     {
+      image:'https://media.giphy.com/media/wqJKk0HAM4lsE5rHUS/giphy.gif',
+      description: 'MyCrypto',
+      url: 'https://pauls-crypto.herokuapp.com/'
+    },
+    {
       image: 'https://media.giphy.com/media/WS17aEYThNqmTf3ZKV/giphy.gif',
       description: 'NY Times Scraper',
       url: 'https://ny-times-science-scraper.herokuapp.com/'
