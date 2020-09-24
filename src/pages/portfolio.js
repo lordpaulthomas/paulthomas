@@ -12,7 +12,9 @@ const Layout = loadable(() => import('../components/layout'))
 
 const Image = styled.img`
   max-height: 220px;
-  max-width: 220px;
+  max-width: 260px;
+  min-height: 220px;
+  min-width: 260px;
   object-fit: cover;
   object-position: center center;
   border-radius: 10px;
@@ -26,7 +28,7 @@ const JobCard = styled.a`
   ${({ href }) => href && css`
     &:hover ${Image}{
       transition: transform .5s;
-      transform: translateY(-5px);
+      transform: translateY(-8px);
     }
   `}
 `
