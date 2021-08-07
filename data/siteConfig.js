@@ -91,36 +91,41 @@ module.exports = {
   ],
   portifolio: [
     {
+      image: 'https://media.giphy.com/media/KXu82UWT0aNTWXxPAf/giphy.gif',
+      description: "Billy Martin Website",
+      url: 'http://www.thebillymartin.com/'
+    },
+    {
       image:'https://media.giphy.com/media/wqJKk0HAM4lsE5rHUS/giphy.gif',
       description: 'MyCrypto',
       url: 'https://pauls-crypto.herokuapp.com/'
     },
-    {
-      image: 'https://media.giphy.com/media/WS17aEYThNqmTf3ZKV/giphy.gif',
-      description: 'NY Times Scraper',
-      url: 'https://ny-times-science-scraper.herokuapp.com/'
-    },
-    {
-      image: 'https://media.giphy.com/media/dxZaGetO7mcM5wDz8o/giphy.gif',
-      description: 'The "Shazam" of Lyrics',
-      url:
-      'https://thatsong.herokuapp.com/',
-    },
+    // {
+    //   image: 'https://media.giphy.com/media/WS17aEYThNqmTf3ZKV/giphy.gif',
+    //   description: 'NY Times Scraper',
+    //   url: 'https://ny-times-science-scraper.herokuapp.com/'
+    // },
+    // {
+    //   image: 'https://media.giphy.com/media/dxZaGetO7mcM5wDz8o/giphy.gif',
+    //   description: 'The "Shazam" of Lyrics',
+    //   url:
+    //   'https://thatsong.herokuapp.com/',
+    // },
     {
       image: 'https://media.giphy.com/media/fA8YA68E2qGtwhG1fK/giphy.gif',
       description: "Harry Potter Memory Game",
       url: 'https://lordpaulthomas.github.io/potter-clicky-game/',
     },
-    {
-      image: 'https://media.giphy.com/media/d8tEoHPUauuLcFpXf9/giphy.gif',
-      description: 'Google Books Search',
-      url: 'https://my-google-books-library.herokuapp.com/'
-    }, 
-    {
-      image: "https://media.giphy.com/media/VbJvcKegzki57AskZH/giphy.gif",
-      description:"Scrape CoinDesk",
-      url: "https://crypto-desk.herokuapp.com/"
-    },
+    // {``
+    //   image: 'https://media.giphy.com/media/d8tEoHPUauuLcFpXf9/giphy.gif',
+    //   description: 'Google Books Search',
+    //   url: 'https://my-google-books-library.herokuapp.com/'
+    // }, 
+    // {
+    //   image: "https://media.giphy.com/media/VbJvcKegzki57AskZH/giphy.gif",
+    //   description:"Scrape CoinDesk",
+    //   url: "https://crypto-desk.herokuapp.com/"
+    // },
     {
       image: "https://media.giphy.com/media/lqLdXEQZYhJ91qOPjd/giphy.gif",
       description: "RPG Battle Game",
