@@ -100,6 +100,11 @@ module.exports = {
       description: 'MyCrypto',
       url: 'https://pauls-crypto.herokuapp.com/'
     },
+    {
+      image:'https://media.giphy.com/media/7axNhDc4etEk1QgQyB/giphy.gif',
+      description: 'Burger Database',
+      url: 'https://afternoon-tor-64917.herokuapp.com/'
+    },
     // {
     //   image: 'https://media.giphy.com/media/WS17aEYThNqmTf3ZKV/giphy.gif',
     //   description: 'NY Times Scraper',
