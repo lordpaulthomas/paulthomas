@@ -6,15 +6,23 @@ module.exports = {
   twitterUsername: 'bigpaulthomas',
   githubUsername: 'lordpaulthomas',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `I am a professional musician who has turned a love of music and learning into an obsession with Computer Science. I am hungry, motivated, and passionate about software engineering. <strong>HTML, CSS, Javascript, NodeJS, React</strong>`,
+  authorDescription: `Founding member of the multi-platinum punk rock band Good Charlotte. My passion for technology and software engineering led me to pursue an  A.S. in Computer Programming and a certificate in Full Stack Development.  I am currently majoring in Applied Mathematics at U.C. Berkeley while also working as Chief Blockchain Consultant for VeggieMatesNFT.  My goal is to promote the mass adaptation of decentralized financial systems by integrating blockchain technology into daily life.`,
   skills: [
     {
+      name: 'Blockchain Development',
+      level: 100
+    },
+    {
+      name: 'Non-fungible Tokens',
+      level: 100
+    },
+    {
       name: 'HTML',
-      level: 95,
+      level: 99,
     },
     {
       name: 'CSS',
-      level: 95,
+      level: 96,
     },
     {
       name: 'Javascript',
@@ -22,38 +30,62 @@ module.exports = {
     },
     {
       name: 'NodeJs',
-      level: 85,
+      level: 93,
     },
     {
       name: 'React',
-      level: 90,
+      level: 95,
     },
     {
       name: 'Git',
-      level: 84,
+      level: 94,
     },
     {
       name: 'SQL',
-      level: 83
+      level: 93
     },
     {
       name: 'Mongodb',
-      level: 84
+      level: 94
+    },
+    {
+      name: 'Solidity',
+      level: 90
     }
     /* more skills here */
   ],
   jobs: [
     /* more jobs here */
     {
+      company: 'VeggieMates NFT',
+      begin: {
+        month: 'sep',
+        year: '2021'
+      },
+      duration: null,
+      occupation: 'Chief Blockchain Consultant',
+      description: 'I provide consultation for integrating NFT utility on the Cardano blockchain. '
+    },
+    {
+      company: 'U.C. Berkeley',
+      begin: {
+        month: 'jan',
+        year: 2021
+      },
+      duration: null,
+      occupation: 'Applied Mathematics',
+      description: 'Focus on Numerical Analysis, Number Theory, and Combinatorics'
+    },
+    {
       company: 'Trilogy Education / 2U',
       begin: {
         month: 'apr',
         year: '2020',
       },
-      duration: null,
+      duration: '6 mos',
       occupation: 'Technical Mentor',
       description:
-        'Tutoring online has sharpened my verbalization skills, my debugging skills, and my ability to solve problems with others',
+        'Tutoring online has sharpened my verbalization skills, debugging skills, and ability to solve problems with others',
     },
     {
       company: 'UC Berkeley Extension',
@@ -86,10 +118,15 @@ module.exports = {
       duration: null,
       occupation: 'Founding Member / Bass Guitarist',
       description:
-        'Founded the band and contributed to the success of over 11 million albums sold around the world',
+        'Founded the band and contributed to the success of over 11 million albums sold worldwide',
     },
   ],
   portifolio: [
+    {
+      image: 'https://media.giphy.com/media/12v8jhJ1o85AknlqUc/giphy.gif',
+      description: 'VeggieMates NFT',
+      url: 'https://veggiematesnft.com/'
+    },
     {
       image: 'https://media.giphy.com/media/KXu82UWT0aNTWXxPAf/giphy.gif',
       description: "Billy Martin Website",
