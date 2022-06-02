@@ -74,7 +74,7 @@ module.exports = {
       },
       duration: null,
       occupation: 'Applied Mathematics',
-      description: 'Focus on Numerical Analysis, Number Theory, and Combinatorics'
+      description: 'Focus on Numerical Analysis where we use Matlab and Python to analyse convergence rates and sequences.'
     },
     {
       company: 'Trilogy Education / 2U',
