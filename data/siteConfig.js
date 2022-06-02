@@ -57,14 +57,14 @@ module.exports = {
   jobs: [
     /* more jobs here */
     {
-      company: 'VeggieMates NFT',
+      company: 'Virtually Made',
       begin: {
         month: 'sep',
         year: '2021'
       },
       duration: null,
-      occupation: 'Chief Blockchain Consultant',
-      description: 'I provide consultation for integrating NFT utility on the Cardano blockchain. '
+      occupation: 'Chief Blockchain Consultant / Treasurer',
+      description: "I provide consultation on leveraging the blockchain to provide utility for NFTs and oversee the company's fiat and cryptocurrency general financial oversight."
     },
     {
       company: 'U.C. Berkeley',
@@ -196,7 +196,7 @@ module.exports = {
     twitter: 'https://twitter.com/bigpaulthomas',
     linkedin: 'https://www.linkedin.com/in/paul-thomas-b0409871/',
     github: 'https://github.com/lordpaulthomas',
-    email: 'traitorpt@gmail.com',
+    email: 'pauljthomas@berkeley.edu',
   },
   siteUrl: 'http://www.paulthomas.rocks/',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
