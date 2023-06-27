@@ -6,51 +6,62 @@ module.exports = {
   twitterUsername: 'bigpaulthomas',
   githubUsername: 'lordpaulthomas',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `Founding member of the multi-platinum punk rock band Good Charlotte. My passion for technology and software engineering led me to pursue an  A.S. in Computer Programming and a certificate in Full Stack Development.  I am currently majoring in Applied Mathematics at U.C. Berkeley while also working as Chief Blockchain Consultant for VeggieMatesNFT.  My goal is to promote the mass adaptation of decentralized financial systems by integrating blockchain technology into daily life.`,
+  authorDescription: `As a founding member of the multi-platinum punk rock band Good Charlotte, my journey in music has been an incredible adventure. Alongside my passion for music, I've nurtured a deep interest in technology and software engineering, earning an A.S. in Computer Programming and a certificate in Full Stack Development. Recently, I completed my degree in Applied Mathematics from U.C. Berkeley.
+  While at Virtually Made, I contributed to developing innovative digital solutions, honing my skills in problem-solving, collaboration, and leveraging technology to drive results.
+  Now, I'm excited to apply my diverse skill set and experiences to a new opportunity in the tech industry. With a solid foundation in computer programming, a passion for technology, and a deep understanding of mathematical concepts, I'm eager to contribute to cutting-edge projects and participate in transformative technological advancements.
+  Drawing from my background in both music and technology, I bring a unique perspective that combines creativity, analytical thinking, and a drive to push boundaries. Whether it's creating captivating music or developing innovative software solutions, I thrive in dynamic environments where creativity and technology intersect.`,
   skills: [
     {
-      name: 'Blockchain Development',
-      level: 100
+      name: 'Java',
+      level: 85
     },
     {
-      name: 'Non-fungible Tokens',
-      level: 100
-    },
-    {
-      name: 'HTML',
-      level: 99,
-    },
-    {
-      name: 'CSS',
-      level: 96,
+      name: 'Python',
+      level: 80
     },
     {
       name: 'Javascript',
-      level: 95,
-    },
-    {
-      name: 'NodeJs',
-      level: 93,
-    },
-    {
-      name: 'React',
-      level: 95,
-    },
-    {
-      name: 'Git',
-      level: 94,
+      level: 88,
     },
     {
       name: 'SQL',
-      level: 93
+      level: 83,
     },
     {
-      name: 'Mongodb',
-      level: 94
+      name: 'Full Stack Development',
+      level: 78,
     },
     {
-      name: 'Solidity',
+      name: 'Web Development',
+      level: 80,
+    },
+    {
+      name: 'Object-Oriented Programming',
+      level: 83,
+    },
+    {
+      name: 'Agile Methodologies',
+      level: 86,
+    },
+    {
+      name: 'Applied Mathematics',
       level: 90
+    },
+    {
+      name: 'Music Composition',
+      level: 100
+    },
+    {
+      name: 'Music Production',
+      level: 98
+    },
+    {
+      name: 'Blockchain Concepts',
+      level: 97
+    },
+    {
+      name: 'Blockchain Integration',
+      level: 95
     }
     /* more skills here */
   ],
@@ -63,14 +74,14 @@ module.exports = {
         year: '2021'
       },
       duration: null,
-      occupation: 'Chief Blockchain Consultant / Treasurer',
-      description: "I provide consultation on leveraging the blockchain to provide utility for NFTs and oversee the company's fiat and cryptocurrency general financial oversight."
+      occupation: 'Chief Blockchain Consultant / Treasurer / Audio Engineer',
+      description: "I provide consultation on leveraging the blockchain to provide utility for NFTs, as well as oversee the company's fiat and cryptocurrency general financial oversight."
     },
     {
       company: 'U.C. Berkeley',
       begin: {
         month: 'jan',
-        year: 2021
+        year: 2023
       },
       duration: null,
       occupation: 'Applied Mathematics',
