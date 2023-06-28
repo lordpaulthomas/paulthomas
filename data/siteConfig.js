@@ -14,7 +14,7 @@ module.exports = {
     },
     {
       name: 'Python',
-      level: 80
+      level: 85
     },
     {
       name: 'Javascript',
@@ -22,7 +22,7 @@ module.exports = {
     },
     {
       name: 'SQL',
-      level: 83,
+      level: 85,
     },
     {
       name: 'Full Stack Development',
@@ -30,19 +30,19 @@ module.exports = {
     },
     {
       name: 'Web Development',
-      level: 82,
-    },
-    {
-      name: 'Object-Oriented Programming',
-      level: 83,
-    },
-    {
-      name: 'Agile Methodologies',
       level: 86,
     },
     {
+      name: 'Object-Oriented Programming',
+      level: 86,
+    },
+    {
+      name: 'Agile Methodologies',
+      level: 88,
+    },
+    {
       name: 'Applied Mathematics',
-      level: 90
+      level: 97
     },
     {
       name: 'Music Composition',
@@ -82,7 +82,7 @@ module.exports = {
       },
       duration: null,
       occupation: 'Applied Mathematics',
-      description: 'I focused on Numerical Analysis, where we used Matlab and Python to analyze convergence rates, sequences, optimization, and large data sets.'
+      description: 'I focused on Numerical Analysis, delving into the application of Matlab and Python for analyzing convergence rates, sequences, optimization problems, and large datasets. This focus allowed me to develop a deep understanding of mathematical concepts and their practical implementation in solving complex problems. Utilizing these programming languages taught me proficiency in leveraging data analysis techniques to derive valuable insights and make informed decisions.'
     },
     {
       company: 'Trilogy Education / 2U',
