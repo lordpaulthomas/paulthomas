@@ -132,13 +132,18 @@ module.exports = {
   portifolio: [
     {
       image: 'https://media.giphy.com/media/12v8jhJ1o85AknlqUc/giphy.gif',
-      description: 'VeggieMates NFT',
+      description: 'Veggiemates NFT',
       url: 'https://veggiematesnft.com/'
     },
     {
-      image: 'https://media.giphy.com/media/KXu82UWT0aNTWXxPAf/giphy.gif',
-      description: "Billy Martin Website",
+      image: 'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXczM3N3b2VqbHJibHl3N3ZtZXlsNnk4ZGNwcGN5ODMxYTd1aGNuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0LQIYvExonMZ7l49V/giphy.gif',
+      description: "Veggiemates Franchise Pass",
       url: 'http://www.thebillymartin.com/'
+    },
+    {
+      image:"https://media.giphy.com/media/12v8jhJ1o85AknlqUc/giphy.gif",
+      description: "Veggiemates Staking",
+      url: "https://staking.virtuallymade.io/dashboard"
     },
     {
       image:'https://media.giphy.com/media/wqJKk0HAM4lsE5rHUS/giphy.gif',
