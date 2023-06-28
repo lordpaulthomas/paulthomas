@@ -6,10 +6,7 @@ module.exports = {
   twitterUsername: 'bigpaulthomas',
   githubUsername: 'lordpaulthomas',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `As a founding member of the multi-platinum punk rock band Good Charlotte, my journey in music has been an incredible adventure. Alongside my passion for music, I've nurtured a deep interest in technology and software engineering, earning an A.S. in Computer Programming and a certificate in Full Stack Development. Recently, I completed my degree in Applied Mathematics from U.C. Berkeley.
-  While at Virtually Made, I contributed to developing innovative digital solutions, honing my skills in problem-solving, collaboration, and leveraging technology to drive results.
-  Now, I'm excited to apply my diverse skill set and experiences to a new opportunity in the tech industry. With a solid foundation in computer programming, a passion for technology, and a deep understanding of mathematical concepts, I'm eager to contribute to cutting-edge projects and participate in transformative technological advancements.
-  Drawing from my background in both music and technology, I bring a unique perspective that combines creativity, analytical thinking, and a drive to push boundaries. Whether it's creating captivating music or developing innovative software solutions, I thrive in dynamic environments where creativity and technology intersect.`,
+  authorDescription: `I am a founding member of Good Charlotte, a multi-platinum punk rock band, and a tech enthusiast with a computer programming and full-stack development background. I recently completed a degree in Applied Mathematics from U.C. Berkeley and have experience developing digital solutions at Virtually Made. With a solid foundation in programming and a deep understanding of mathematics, I am eager to contribute to cutting-edge projects and transformative advancements. Combining creativity, analytical thinking, and a drive to push boundaries, I thrive in dynamic environments where creativity and technology intersect.`,
   skills: [
     {
       name: 'Java',
@@ -29,11 +26,11 @@ module.exports = {
     },
     {
       name: 'Full Stack Development',
-      level: 78,
+      level: 85,
     },
     {
       name: 'Web Development',
-      level: 80,
+      level: 82,
     },
     {
       name: 'Object-Oriented Programming',
@@ -74,8 +71,8 @@ module.exports = {
         year: '2021'
       },
       duration: null,
-      occupation: 'Chief Blockchain Consultant / Treasurer / Audio Engineer',
-      description: "I provide consultation on leveraging the blockchain to provide utility for NFTs, as well as oversee the company's fiat and cryptocurrency general financial oversight."
+      occupation: 'Cofounder / Blockchain Consultant / Audio Engineer',
+      description: "I provide consultation on leveraging blockchain technology to enhance the utility of NFTs. With expertise in music and technology, I contribute to developing innovative solutions that merge these domains. Additionally, I oversee the company's general financial management, including fiat and cryptocurrency. Our development process follows agile methodologies, ensuring efficiency and adaptability in our projects."
     },
     {
       company: 'U.C. Berkeley',
@@ -85,7 +82,7 @@ module.exports = {
       },
       duration: null,
       occupation: 'Applied Mathematics',
-      description: 'Focus on Numerical Analysis where we use Matlab and Python to analyze convergence rates and sequences.'
+      description: 'I focused on Numerical Analysis, where we used Matlab and Python to analyze convergence rates, sequences, optimization, and large data sets.'
     },
     {
       company: 'Trilogy Education / 2U',
