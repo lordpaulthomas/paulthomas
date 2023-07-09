@@ -141,20 +141,25 @@ module.exports = {
       url: 'http://www.thebillymartin.com/'
     },
     {
-      image:"https://media.giphy.com/media/12v8jhJ1o85AknlqUc/giphy.gif",
+      image:"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3UwZ29sZG1pYmgyczY0NWE4Mm42cnF1cGt5MjBkbWJzOHBiYzEyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lHJ902Iyc0AwMRhjRr/giphy.gif",
       description: "Veggiemates Staking",
       url: "https://staking.virtuallymade.io/dashboard"
     },
     {
-      image:'https://media.giphy.com/media/wqJKk0HAM4lsE5rHUS/giphy.gif',
-      description: 'MyCrypto',
-      url: 'https://pauls-crypto.herokuapp.com/'
+      image:"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBqdThpMGx3ZWc4Y211eHF0czRzanBqY3hqejdzdW1pdWlsbGxpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rS3ctStLOVQzrTduBV/giphy.gif",
+      description: "Greens Token Whitepaper",
+      url: "https://virtually-made.gitbook.io/greens_whitepaper/usdgreens/about"
     },
-    {
-      image:'https://media.giphy.com/media/7axNhDc4etEk1QgQyB/giphy.gif',
-      description: 'Burger Database',
-      url: 'https://afternoon-tor-64917.herokuapp.com/'
-    },
+    // {
+    //   image:'https://media.giphy.com/media/wqJKk0HAM4lsE5rHUS/giphy.gif',
+    //   description: 'MyCrypto',
+    //   url: 'https://pauls-crypto.herokuapp.com/'
+    // },
+    // {
+    //   image:'https://media.giphy.com/media/7axNhDc4etEk1QgQyB/giphy.gif',
+    //   description: 'Burger Database',
+    //   url: 'https://afternoon-tor-64917.herokuapp.com/'
+    // },
     // {
     //   image: 'https://media.giphy.com/media/WS17aEYThNqmTf3ZKV/giphy.gif',
     //   description: 'NY Times Scraper',
@@ -181,11 +186,11 @@ module.exports = {
     //   description:"Scrape CoinDesk",
     //   url: "https://crypto-desk.herokuapp.com/"
     // },
-    {
-      image: "https://media.giphy.com/media/lqLdXEQZYhJ91qOPjd/giphy.gif",
-      description: "RPG Battle Game",
-      url: "https://gladiator-fights.herokuapp.com/",
-    },
+    // {
+    //   image: "https://media.giphy.com/media/lqLdXEQZYhJ91qOPjd/giphy.gif",
+    //   description: "RPG Battle Game",
+    //   url: "https://gladiator-fights.herokuapp.com/",
+    // },
     {
       image: "https://media.giphy.com/media/7LfFXBn4we96o/giphy.gif",
       description: "Harry Potter Quiz",
