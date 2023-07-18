@@ -72,7 +72,7 @@ module.exports = {
       },
       duration: null,
       occupation: 'Cofounder / Blockchain Consultant / Audio Engineer',
-      description: "I provide consultation on leveraging blockchain technology to enhance the utility of NFTs. With expertise in music and technology, I contribute to developing innovative solutions that merge these domains. Additionally, I oversee the company's general financial management, including fiat and cryptocurrency. Our development process follows agile methodologies, ensuring efficiency and adaptability in our projects."
+      description: "I provide consultation on leveraging blockchain technology to enhance the utility of NFTs. At Virtually Made we are currently leveraging the blockchain to build a Decentralized Entertainment Company."
     },
     {
       company: 'U.C. Berkeley',
@@ -82,7 +82,18 @@ module.exports = {
       },
       duration: null,
       occupation: 'Applied Mathematics',
-      description: 'I focused on Numerical Analysis, delving into the application of Matlab and Python for analyzing convergence rates, sequences, optimization problems, and large datasets. This focus allowed me to develop a deep understanding of mathematical concepts and their practical implementation in solving complex problems. Utilizing these programming languages taught me proficiency in leveraging data analysis techniques to derive valuable insights and make informed decisions.'
+      description: 'Focused on Numerical Analysis, studying the application of Matlab and Python for analyzing convergence rates, sequences, optimization problems, and large datasets. '
+    },
+    {
+      company: 'Laney College',
+      begin: {
+        month: 'feb',
+        year: '2021',
+      },
+      duration: '2 yr',
+      occupation: 'A.S. Degree in Computer Programming',
+      description:
+        'Studied Object Oriented Programming, Full-Stack Development and Data Structures with C++ and Java',
     },
     {
       company: 'Trilogy Education / 2U',
@@ -105,17 +116,6 @@ module.exports = {
       occupation: 'Full-Stack Web Development',
       description:
         'Learned Web Development with Javascript, JQuery, React, Handlebars, Mongodb, SQL, and Node',
-    },
-    {
-      company: 'Laney College',
-      begin: {
-        month: 'feb',
-        year: '2018',
-      },
-      duration: '2 yr',
-      occupation: 'A.S. Degree in Computer Programming',
-      description:
-        'Studied Object Oriented Programming, Full-Stack Development and Data Structures with C++ and Java',
     },
     {
       company: `Good Charlotte`,
