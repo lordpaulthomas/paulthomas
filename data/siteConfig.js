@@ -138,7 +138,7 @@ module.exports = {
     {
       image: 'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXczM3N3b2VqbHJibHl3N3ZtZXlsNnk4ZGNwcGN5ODMxYTd1aGNuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0LQIYvExonMZ7l49V/giphy.gif',
       description: "Veggiemates Franchise Pass",
-      url: 'http://www.thebillymartin.com/'
+      url: 'https://franchisepass.virtuallymade.io/'
     },
     {
       image:"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3UwZ29sZG1pYmgyczY0NWE4Mm42cnF1cGt5MjBkbWJzOHBiYzEyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lHJ902Iyc0AwMRhjRr/giphy.gif",
