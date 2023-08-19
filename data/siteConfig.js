@@ -181,11 +181,11 @@ module.exports = {
     //   description: 'Google Books Search',
     //   url: 'https://my-google-books-library.herokuapp.com/'
     // }, 
-    // {
-    //   image: "https://media.giphy.com/media/VbJvcKegzki57AskZH/giphy.gif",
-    //   description:"Scrape CoinDesk",
-    //   url: "https://crypto-desk.herokuapp.com/"
-    // },
+    {
+      image: "https://media.giphy.com/media/VbJvcKegzki57AskZH/giphy.gif",
+      description:"Scrape CoinDesk",
+      url: "https://crypto-desk.herokuapp.com/"
+     },
     // {
     //   image: "https://media.giphy.com/media/lqLdXEQZYhJ91qOPjd/giphy.gif",
     //   description: "RPG Battle Game",
